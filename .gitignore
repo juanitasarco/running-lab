@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos personales — no subir
+data/raw/*
+data/processed/*
+
+# Entorno virtual
+.venv/
+
